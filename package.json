@@ -1,0 +1,23 @@
+{
+  "name": "Example",
+  "version": "1.0.0",
+  "description": "This is sample readme file for our GitHub Example repo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaboliq/Example.git"
+  },
+  "keywords": [],
+  "author": "new name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaboliq/Example/issues"
+  },
+  "homepage": "https://github.com/diaboliq/Example#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
